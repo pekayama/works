@@ -1,0 +1,41 @@
+.body {
+  width: 430px;
+  height: 1700px;
+  justify-content: center;
+  background-color:#ECECEC;
+};
+
+
+.pekayama_header {
+  display: flex;
+  justify-content: center;
+}
+
+.WORKS_header {
+  display: flex;
+  justify-content: center;
+  margin: 60px;
+}
+
+.works1 {
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+}
+.works2 {
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+}
+
+.works3 {
+  display: flex;
+  justify-content: center;
+  margin: 5px;
+}
+
+.Logo {
+  display: flex;
+  justify-content: center;
+  margin: 45px;
+}
