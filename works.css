@@ -1,0 +1,30 @@
+body{
+    width: 430px;
+    height: 932px;
+    justify-content: center;
+    background-color:#ECECEC;
+}
+
+.header{
+    width: 615px;
+    height: 95px;
+}
+
+.asset{
+    width: 430px;
+    height: 422px;
+    margin: 32px auto 0;
+}
+
+.works_green{
+    width: 384px;
+    height: 157px;
+    margin-right: 46px;
+}
+
+.twitterContents{
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+    justify-content: center;
+}
